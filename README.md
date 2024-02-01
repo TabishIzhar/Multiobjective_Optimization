@@ -17,7 +17,7 @@ The process of installing the package is presented below.
 
 3) Activate virtual environment from cmd
 ```
-    .\venv\Scripts\activate.bat
+    $ .\venv\Scripts\activate.bat
 ```
 
 4) Install every dependency using requirement.txt
