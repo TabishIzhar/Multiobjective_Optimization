@@ -8,7 +8,7 @@ The process of installing the package is presented below.
 
 ## Installation (from Git repository)
 
-1) Clone the repository using **https://github.com/TabishIzhar/PyRCD.git**
+1) Clone the repository using **https://github.com/TabishIzhar/Multiobjective_Optimization.git**
 
 2) Form a virtual environment using 
 ```
